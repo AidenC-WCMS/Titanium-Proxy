@@ -1,0 +1,35 @@
+[2026-04-18T18:21:54.911Z] [WARN] Extensions directory not found: ./extensions
+[2026-04-18T18:21:54.928Z] [INFO] ========================================
+[2026-04-18T18:21:54.928Z] [INFO]   TITANIUM PROXY SERVER v2.0
+[2026-04-18T18:21:54.928Z] [INFO] ========================================
+[2026-04-18T18:21:54.929Z] [INFO] ========================================
+
+[2026-04-18T18:21:54.928Z] [INFO]   URL: http://localhost:3000
+[2026-04-18T18:21:54.929Z] [INFO]   Extensions: 0 loaded
+[2026-04-18T18:24:29.432Z] [WARN] Extensions directory not found: ./extensions
+[2026-04-18T18:24:29.445Z] [INFO] ========================================
+[2026-04-18T18:24:29.446Z] [INFO]   URL: http://localhost:3000
+[2026-04-18T18:24:29.445Z] [INFO] ========================================
+[2026-04-18T18:24:29.445Z] [INFO]   TITANIUM PROXY SERVER v2.0
+[2026-04-18T18:24:29.447Z] [INFO]   Extensions: 0 loaded
+[2026-04-18T18:24:29.448Z] [INFO] ========================================
+
+[2026-04-18T18:41:36.332Z] [WARN] Extensions directory not found: ./extensions
+[2026-04-18T18:41:36.348Z] [INFO] ========================================
+[2026-04-18T18:41:36.348Z] [INFO]   URL: http://localhost:3000
+[2026-04-18T18:41:36.348Z] [INFO] ========================================
+[2026-04-18T18:41:36.349Z] [INFO] ========================================
+
+[2026-04-18T18:41:36.348Z] [INFO]   Extensions: 0 loaded
+[2026-04-18T18:41:36.348Z] [INFO]   TITANIUM PROXY SERVER v2.0
+[2026-04-18T18:41:51.725Z] [AUTH] User logged in: aidenc
+[2026-04-18T23:25:05.578Z] [WARN] Extensions directory not found: ./extensions
+[2026-04-18T23:25:32.937Z] [WARN] Extensions directory not found: ./extensions
+[2026-04-18T23:25:32.945Z] [INFO] ========================================
+[2026-04-18T23:25:32.946Z] [INFO]   TITANIUM PROXY SERVER v2.0
+[2026-04-18T23:25:32.946Z] [INFO] ========================================
+[2026-04-18T23:25:32.946Z] [INFO] ========================================
+
+[2026-04-18T23:25:32.946Z] [INFO]   URL: http://localhost:3000
+[2026-04-18T23:25:32.946Z] [INFO]   Extensions: 0 loaded
+[2026-04-18T23:25:37.696Z] [AUTH] User logged in: aidenc

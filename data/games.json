@@ -1,0 +1,28 @@
+{
+  "games": [
+    {
+      "id": "slope",
+      "name": "Slope",
+      "description": "Control a ball rolling down a slope at high speed",
+      "iframeUrl": "https://slope-game.github.io/roto/slope/index.html",
+      "icon": "slope.png",
+      "category": "arcade"
+    },
+    {
+      "id": "basket-random",
+      "name": "Basket Random",
+      "description": "Chaotic 2-player basketball with ragdoll physics",
+      "iframeUrl": "https://html5.gamedistribution.com/bf1268dccb5d43e7970bb3edaa54afc8/",
+      "icon": "basket-random.png",
+      "category": "sports"
+    },
+    {
+      "id": "retro-bowl",
+      "name": "Retro Bowl",
+      "description": "Classic American football management game",
+      "iframeUrl": "https://retrobowl.github.io/game/",
+      "icon": "retro-bowl.png",
+      "category": "sports"
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "name": "titanium-proxy",
+  "version": "2.0.0",
+  "type": "module",
+  "description": "Modular proxy server with extensions support",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "node --watch index.js",
+    "user:add": "node scripts/add-user.js",
+    "extension:create": "node scripts/create-extension.js"
+  },
+  "keywords": [
+    "proxy",
+    "web-proxy",
+    "youtube",
+    "games"
+  ],
+  "author": "",
+  "license": "MIT",
+  "engines": {
+    "node": ">=18.0.0"
+  },
+  "dependencies": {
+    "bcrypt": "^5.1.1",
+    "dotenv": "^16.4.5"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "port": 3000,
+  "host": "localhost",
+  "features": {
+    "fingerprinting": true,
+    "youtube": true,
+    "games": true
+  },
+  "security": {
+    "bcryptRounds": 12,
+    "maxSessionAge": 86400000
+  },
+  "rateLimit": {
+    "window": 60000,
+    "maxRequests": 100
+  },
+  "proxy": {
+    "timeout": 30000,
+    "dnsServers": ["8.8.8.8", "1.1.1.1", "208.67.222.222"],
+    "dnsCacheTTL": 300000
+  }
+}

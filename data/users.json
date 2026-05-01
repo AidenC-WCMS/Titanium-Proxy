@@ -1,0 +1,10 @@
+{
+  "users": [
+    {
+      "username": "aidenc",
+      "password": "$2b$12$v9HQNHiIwRhcyJ9rVklrEeOQQLucE5ShNPQzLhLJUodPLroAJMnui",
+      "createdAt": "2026-04-18T18:41:26.823Z",
+      "role": "admin"
+    }
+  ]
+}

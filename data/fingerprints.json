@@ -1,0 +1,42 @@
+{
+  "fingerprints": [
+    {
+      "hash": "d4a487da739d176ac40c88531dc38b6bcf9420ba1a1b7bbd10c84c39c9b43c59",
+      "data": {
+        "clientFingerprint": "",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:149.0) Gecko/20100101 Firefox/149.0",
+        "acceptLanguage": "en-US,en;q=0.9",
+        "acceptEncoding": "gzip, deflate, br, zstd",
+        "accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
+        "secChUa": "",
+        "secChUaMobile": "",
+        "secChUaPlatform": ""
+      },
+      "users": [
+        "aidenc"
+      ],
+      "firstSeen": "2026-04-18T23:25:37.695Z",
+      "lastSeen": "2026-04-19T15:41:11.840Z",
+      "seenCount": 2
+    },
+    {
+      "hash": "28f542dda5d52b8f9ff77f1da73c1ad11ed9bdf70abbb99a882f73632dd1f8eb",
+      "data": {
+        "clientFingerprint": "",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:150.0) Gecko/20100101 Firefox/150.0",
+        "acceptLanguage": "en-US,en;q=0.9",
+        "acceptEncoding": "gzip, deflate, br, zstd",
+        "accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
+        "secChUa": "",
+        "secChUaMobile": "",
+        "secChUaPlatform": ""
+      },
+      "users": [
+        "aidenc"
+      ],
+      "firstSeen": "2026-04-28T03:30:59.821Z",
+      "lastSeen": "2026-05-01T00:47:37.688Z",
+      "seenCount": 11
+    }
+  ]
+}

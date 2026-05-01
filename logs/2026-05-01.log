@@ -1,0 +1,236 @@
+[2026-05-01T00:14:32.927Z] [WARN] Extensions directory not found: ./extensions
+[2026-05-01T00:14:32.933Z] [INFO] ========================================
+[2026-05-01T00:14:32.933Z] [INFO] ========================================
+[2026-05-01T00:14:32.934Z] [INFO]   Extensions: 0 loaded
+[2026-05-01T00:14:32.934Z] [INFO]   URL: http://localhost:3000
+[2026-05-01T00:14:32.934Z] [INFO] ========================================
+
+[2026-05-01T00:14:32.933Z] [INFO]   TITANIUM PROXY SERVER v2.0
+[2026-05-01T00:14:38.119Z] [AUTH] User logged in: aidenc
+[2026-05-01T00:14:39.187Z] [INFO] [aidenc] Accessed YouTube interface
+[2026-05-01T00:14:47.400Z] [INFO] [aidenc] Searching YouTube: big mathis
+[2026-05-01T00:14:48.305Z] [PROXY] [aidenc] https://i.ytimg.com/vi/95wI9gwarx4/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARU...
+[2026-05-01T00:14:48.308Z] [PROXY] [aidenc] https://i.ytimg.com/vi/iePXlFFz7ew/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARU...
+[2026-05-01T00:14:48.311Z] [PROXY] [aidenc] https://i.ytimg.com/vi/FVLLK2N0byk/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARU...
+[2026-05-01T00:14:48.313Z] [PROXY] [aidenc] https://i.ytimg.com/vi/pXOPl5HPCFk/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARU...
+[2026-05-01T00:14:48.314Z] [PROXY] [aidenc] https://i.ytimg.com/vi/utsaubETyu4/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARU...
+[2026-05-01T00:14:48.316Z] [PROXY] [aidenc] https://i.ytimg.com/vi/6WkBW7h7Ek4/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARU...
+[2026-05-01T00:14:48.365Z] [DNS] Resolved i.ytimg.com -> 172.217.215.119 via 8.8.8.8
+[2026-05-01T00:14:48.365Z] [DNS] Resolved i.ytimg.com -> 74.125.136.119 via 8.8.8.8
+[2026-05-01T00:14:48.365Z] [DNS] Resolved i.ytimg.com -> 172.253.124.119 via 8.8.8.8
+[2026-05-01T00:14:48.365Z] [DNS] Resolved i.ytimg.com -> 173.194.219.119 via 8.8.8.8
+[2026-05-01T00:14:48.365Z] [DNS] Resolved i.ytimg.com -> 173.194.219.119 via 8.8.8.8
+[2026-05-01T00:14:48.365Z] [DNS] Resolved i.ytimg.com -> 64.233.176.119 via 8.8.8.8
+[2026-05-01T00:14:48.676Z] [PROXY] [aidenc] https://i.ytimg.com/vi/3XsM9LV2sKU/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARU...
+[2026-05-01T00:14:48.676Z] [PROXY] [aidenc] https://i.ytimg.com/vi/6plckXfOG14/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARU...
+[2026-05-01T00:14:48.677Z] [PROXY] [aidenc] https://i.ytimg.com/vi/-SkC8RLuZJs/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARU...
+[2026-05-01T00:14:48.702Z] [PROXY] [aidenc] https://i.ytimg.com/vi/xAJwh2mTSkk/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARU...
+[2026-05-01T00:14:48.704Z] [PROXY] [aidenc] https://i.ytimg.com/vi/XUcylMtp4QM/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARU...
+[2026-05-01T00:14:48.723Z] [PROXY] [aidenc] https://i.ytimg.com/vi/CN5pn3uznpo/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARU...
+[2026-05-01T00:14:48.742Z] [PROXY] [aidenc] https://i.ytimg.com/vi/iVhX6bN_iuY/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARU...
+[2026-05-01T00:14:48.781Z] [PROXY] [aidenc] https://i.ytimg.com/vi/y9pN50D8CWQ/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARU...
+[2026-05-01T00:14:48.784Z] [PROXY] [aidenc] https://i.ytimg.com/vi/ptUw0aOfonI/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARU...
+[2026-05-01T00:14:48.786Z] [PROXY] [aidenc] https://i.ytimg.com/vi/S56EjfrP8AU/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARU...
+[2026-05-01T00:14:48.794Z] [PROXY] [aidenc] https://i.ytimg.com/vi/VDLt7yMmPKc/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARU...
+[2026-05-01T00:14:48.812Z] [PROXY] [aidenc] https://i.ytimg.com/vi/MY1u0VPO0hM/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARU...
+[2026-05-01T00:14:49.127Z] [INFO] [aidenc] Extracting stream: iePXlFFz7ew
+[2026-05-01T00:14:49.184Z] [ERROR] Video iePXlFFz7ew playability: UNKNOWN - Video unavailable
+[2026-05-01T00:14:49.184Z] [ERROR] InnerTube extraction failed for iePXlFFz7ew: UNKNOWN: Video unavailable
+[2026-05-01T00:14:49.184Z] [ERROR] InnerTube getVideoInfo failed: UNKNOWN: Video unavailable
+[2026-05-01T00:14:49.184Z] [WARN] InnerTube failed for iePXlFFz7ew: UNKNOWN: Video unavailable
+[2026-05-01T00:17:37.564Z] [WARN] Extensions directory not found: ./extensions
+[2026-05-01T00:17:37.571Z] [INFO] ========================================
+[2026-05-01T00:17:37.571Z] [INFO]   TITANIUM PROXY SERVER v2.0
+[2026-05-01T00:17:37.571Z] [INFO] ========================================
+[2026-05-01T00:17:37.571Z] [INFO] ========================================
+
+[2026-05-01T00:17:37.571Z] [INFO]   Extensions: 0 loaded
+[2026-05-01T00:17:37.571Z] [INFO]   URL: http://localhost:3000
+[2026-05-01T00:17:41.566Z] [AUTH] User logged in: aidenc
+[2026-05-01T00:17:42.380Z] [INFO] [aidenc] Accessed YouTube interface
+[2026-05-01T00:17:49.145Z] [INFO] [aidenc] Searching YouTube: big mathis
+[2026-05-01T00:17:51.115Z] [INFO] [aidenc] Extracting stream: iePXlFFz7ew
+[2026-05-01T00:17:51.115Z] [INFO] Trying TVHTML5_SIMPLY_EMBEDDED_PLAYER client for iePXlFFz7ew
+[2026-05-01T00:17:51.148Z] [ERROR] [TVHTML5_SIMPLY_EMBEDDED_PLAYER] Video iePXlFFz7ew playability: ERROR - YouTube is no longer supported in this application or device.
+[2026-05-01T00:17:51.148Z] [ERROR] [TVHTML5_SIMPLY_EMBEDDED_PLAYER] Response keys: responseContext, playabilityStatus, trackingParams
+[2026-05-01T00:17:51.148Z] [WARN] TVHTML5_SIMPLY_EMBEDDED_PLAYER failed for iePXlFFz7ew: ERROR: YouTube is no longer supported in this application or device.
+[2026-05-01T00:17:51.148Z] [INFO] Trying IOS client for iePXlFFz7ew
+[2026-05-01T00:17:51.250Z] [ERROR] [IOS] Video iePXlFFz7ew playability: UNKNOWN - Video unavailable
+[2026-05-01T00:17:51.250Z] [ERROR] [IOS] Response keys: error
+[2026-05-01T00:17:51.250Z] [WARN] IOS failed for iePXlFFz7ew: UNKNOWN: Video unavailable
+[2026-05-01T00:17:51.250Z] [INFO] Trying ANDROID_EMBEDDED_PLAYER client for iePXlFFz7ew
+[2026-05-01T00:17:51.352Z] [ERROR] [ANDROID_EMBEDDED_PLAYER] Video iePXlFFz7ew playability: UNKNOWN - Video unavailable
+[2026-05-01T00:17:51.353Z] [ERROR] [ANDROID_EMBEDDED_PLAYER] Response keys: error
+[2026-05-01T00:17:51.353Z] [WARN] ANDROID_EMBEDDED_PLAYER failed for iePXlFFz7ew: UNKNOWN: Video unavailable
+[2026-05-01T00:17:51.353Z] [WARN] InnerTube failed for iePXlFFz7ew: All clients failed to extract stream
+[2026-05-01T00:17:51.353Z] [ERROR] InnerTube getVideoInfo failed: All clients failed to extract stream
+[2026-05-01T00:35:54.089Z] [WARN] Extensions directory not found: ./extensions
+[2026-05-01T00:35:54.096Z] [INFO] ========================================
+[2026-05-01T00:35:54.096Z] [INFO]   TITANIUM PROXY SERVER v2.0
+[2026-05-01T00:35:54.096Z] [INFO] ========================================
+[2026-05-01T00:35:54.096Z] [INFO]   URL: http://localhost:3000
+[2026-05-01T00:35:54.096Z] [INFO]   Extensions: 0 loaded
+[2026-05-01T00:35:54.096Z] [INFO] ========================================
+
+[2026-05-01T00:35:59.064Z] [AUTH] User logged in: aidenc
+[2026-05-01T00:36:00.508Z] [INFO] [aidenc] Accessed YouTube interface
+[2026-05-01T00:36:05.219Z] [INFO] [aidenc] Searching YouTube: big mathis
+[2026-05-01T00:36:06.744Z] [PROXY] [aidenc] https://i.ytimg.com/vi/-cm-inGqnR4/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARU...
+[2026-05-01T00:36:06.747Z] [PROXY] [aidenc] https://i.ytimg.com/vi/7Et4n7B8GPc/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARU...
+[2026-05-01T00:36:06.779Z] [DNS] Resolved i.ytimg.com -> 173.194.219.119 via 8.8.8.8
+[2026-05-01T00:36:06.779Z] [DNS] Resolved i.ytimg.com -> 108.177.122.119 via 8.8.8.8
+[2026-05-01T00:36:07.253Z] [INFO] [aidenc] Extracting stream: iePXlFFz7ew
+[2026-05-01T00:36:07.254Z] [INFO] Trying ANDROID client for iePXlFFz7ew
+[2026-05-01T00:36:07.291Z] [ERROR] [ANDROID] playability: UNKNOWN - Video unavailable
+[2026-05-01T00:36:07.291Z] [WARN] ANDROID failed for iePXlFFz7ew: UNKNOWN: Video unavailable
+[2026-05-01T00:36:07.291Z] [ERROR] [ANDROID] response keys: error
+[2026-05-01T00:36:07.291Z] [INFO] Trying WEB_CREATOR client for iePXlFFz7ew
+[2026-05-01T00:36:07.349Z] [ERROR] [WEB_CREATOR] response keys: responseContext, playabilityStatus, trackingParams, adBreakHeartbeatParams
+[2026-05-01T00:36:07.349Z] [ERROR] [WEB_CREATOR] playability: LOGIN_REQUIRED - Please sign in
+[2026-05-01T00:36:07.349Z] [WARN] WEB_CREATOR failed for iePXlFFz7ew: LOGIN_REQUIRED: Please sign in
+[2026-05-01T00:36:07.349Z] [INFO] Trying ANDROID_TESTSUITE client for iePXlFFz7ew
+[2026-05-01T00:36:07.419Z] [ERROR] [ANDROID_TESTSUITE] playability: UNPLAYABLE - This video is not available
+[2026-05-01T00:36:07.419Z] [ERROR] [ANDROID_TESTSUITE] response keys: responseContext, playabilityStatus, videoDetails, trackingParams, adBreakHeartbeatParams
+[2026-05-01T00:36:07.419Z] [WARN] ANDROID_TESTSUITE failed for iePXlFFz7ew: UNPLAYABLE: This video is not available
+[2026-05-01T00:36:07.419Z] [ERROR] InnerTube getVideoInfo failed: All clients failed. YouTube may require PO token auth for server-side requests.
+[2026-05-01T00:36:07.419Z] [WARN] InnerTube failed for iePXlFFz7ew: All clients failed. YouTube may require PO token auth for server-side requests.
+[2026-05-01T00:40:28.936Z] [WARN] Extensions directory not found: ./extensions
+[2026-05-01T00:40:28.943Z] [INFO] ========================================
+[2026-05-01T00:40:28.943Z] [INFO]   TITANIUM PROXY SERVER v2.0
+[2026-05-01T00:40:28.943Z] [INFO] ========================================
+[2026-05-01T00:40:28.943Z] [INFO]   URL: http://localhost:3000
+[2026-05-01T00:40:28.943Z] [INFO] ========================================
+
+[2026-05-01T00:40:28.943Z] [INFO]   Extensions: 0 loaded
+[2026-05-01T00:40:32.737Z] [AUTH] User logged in: aidenc
+[2026-05-01T00:40:33.827Z] [INFO] [aidenc] Accessed YouTube interface
+[2026-05-01T00:40:39.110Z] [INFO] [aidenc] Searching YouTube: big mathis
+[2026-05-01T00:40:39.995Z] [PROXY] [aidenc] https://i.ytimg.com/vi/MJpm7YVbdJQ/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARU...
+[2026-05-01T00:40:39.998Z] [PROXY] [aidenc] https://i.ytimg.com/vi/qS0ghcfklOo/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARU...
+[2026-05-01T00:40:40.000Z] [PROXY] [aidenc] https://i.ytimg.com/vi/4653mFCNkI4/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARU...
+[2026-05-01T00:40:40.003Z] [PROXY] [aidenc] https://i.ytimg.com/vi/y-qtRLxFBbo/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARU...
+[2026-05-01T00:40:40.005Z] [PROXY] [aidenc] https://i.ytimg.com/vi/z4OdUTqlYUQ/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARU...
+[2026-05-01T00:40:40.012Z] [DNS] Resolved i.ytimg.com -> 172.217.215.119 via 8.8.8.8
+[2026-05-01T00:40:40.013Z] [DNS] Resolved i.ytimg.com -> 142.250.9.119 via 8.8.8.8
+[2026-05-01T00:40:40.013Z] [DNS] Resolved i.ytimg.com -> 173.194.219.119 via 8.8.8.8
+[2026-05-01T00:40:40.013Z] [DNS] Resolved i.ytimg.com -> 172.253.124.119 via 8.8.8.8
+[2026-05-01T00:40:40.013Z] [DNS] Resolved i.ytimg.com -> 64.233.177.119 via 8.8.8.8
+[2026-05-01T00:40:40.434Z] [INFO] [aidenc] Extracting stream: 7Et4n7B8GPc
+[2026-05-01T00:40:40.435Z] [INFO] Fetching YouTube visitor_data...
+[2026-05-01T00:40:40.656Z] [INFO] Got visitor_data: Cgt0UTRkMjAwSEZKUSiJ...
+[2026-05-01T00:40:40.656Z] [INFO] Trying ANDROID for 7Et4n7B8GPc
+[2026-05-01T00:40:40.741Z] [ERROR] [ANDROID] response keys: error
+[2026-05-01T00:40:40.741Z] [ERROR] [ANDROID] playability: UNKNOWN - Video unavailable
+[2026-05-01T00:40:40.741Z] [WARN] ANDROID failed: UNKNOWN: Video unavailable
+[2026-05-01T00:40:40.741Z] [INFO] Trying ANDROID_VR for 7Et4n7B8GPc
+[2026-05-01T00:40:40.845Z] [INFO] [ANDROID_VR] 25 formats (1 combined)
+[2026-05-01T00:40:40.845Z] [SUCCESS] InnerTube extracted 7Et4n7B8GPc in 411ms
+[2026-05-01T00:40:40.845Z] [SUCCESS] Stream extracted: Emergency Landings #70 How survivable are they? Be...
+[2026-05-01T00:40:40.845Z] [INFO] ANDROID_VR succeeded for 7Et4n7B8GPc
+[2026-05-01T00:40:40.849Z] [PROXY] [aidenc] https://rr2---sn-5uaezny6.googlevideo.com/videoplayback?expire=1777617641&ei=ifb...
+[2026-05-01T00:40:40.945Z] [DNS] Resolved rr2---sn-5uaezny6.googlevideo.com -> 173.194.144.103 via 8.8.8.8
+[2026-05-01T00:40:41.148Z] [PROXY] [aidenc] https://rr2---sn-5uaezny6.googlevideo.com/videoplayback?expire=1777617641&ei=ifb...
+[2026-05-01T00:40:41.443Z] [PROXY] [aidenc] https://rr2---sn-q4fzener.googlevideo.com/videoplayback?expire=1777617641&ei=ifb...
+[2026-05-01T00:40:41.487Z] [DNS] Resolved rr2---sn-q4fzener.googlevideo.com -> 172.217.154.231 via 8.8.8.8
+[2026-05-01T00:41:37.421Z] [INFO] [aidenc] Extracting stream: iePXlFFz7ew
+[2026-05-01T00:41:37.421Z] [INFO] Trying ANDROID for iePXlFFz7ew
+[2026-05-01T00:41:37.626Z] [ERROR] [ANDROID] playability: UNKNOWN - Video unavailable
+[2026-05-01T00:41:37.626Z] [ERROR] [ANDROID] response keys: error
+[2026-05-01T00:41:37.626Z] [WARN] ANDROID failed: UNKNOWN: Video unavailable
+[2026-05-01T00:41:37.626Z] [INFO] Trying ANDROID_VR for iePXlFFz7ew
+[2026-05-01T00:41:37.890Z] [INFO] [ANDROID_VR] 25 formats (1 combined)
+[2026-05-01T00:41:37.890Z] [SUCCESS] InnerTube extracted iePXlFFz7ew in 469ms
+[2026-05-01T00:41:37.891Z] [SUCCESS] Stream extracted: Airplane Crashes, Midair Collisions & Dogfights #6...
+[2026-05-01T00:41:37.890Z] [INFO] ANDROID_VR succeeded for iePXlFFz7ew
+[2026-05-01T00:41:37.945Z] [PROXY] [aidenc] https://rr2---sn-2o5ua5-53.googlevideo.com/videoplayback?expire=1777617698&ei=wv...
+[2026-05-01T00:41:37.982Z] [DNS] Resolved rr2---sn-2o5ua5-53.googlevideo.com -> 173.194.29.130 via 8.8.8.8
+[2026-05-01T00:41:38.088Z] [PROXY] [aidenc] https://rr2---sn-2o5ua5-53.googlevideo.com/videoplayback?expire=1777617698&ei=wv...
+[2026-05-01T00:41:42.943Z] [INFO] [aidenc] Extracting stream: 6WkBW7h7Ek4
+[2026-05-01T00:41:42.943Z] [INFO] Trying ANDROID for 6WkBW7h7Ek4
+[2026-05-01T00:41:43.068Z] [ERROR] [ANDROID] playability: UNKNOWN - Video unavailable
+[2026-05-01T00:41:43.068Z] [ERROR] [ANDROID] response keys: error
+[2026-05-01T00:41:43.068Z] [INFO] Trying ANDROID_VR for 6WkBW7h7Ek4
+[2026-05-01T00:41:43.068Z] [WARN] ANDROID failed: UNKNOWN: Video unavailable
+[2026-05-01T00:41:43.513Z] [INFO] [ANDROID_VR] 23 formats (1 combined)
+[2026-05-01T00:41:43.513Z] [SUCCESS] InnerTube extracted 6WkBW7h7Ek4 in 570ms
+[2026-05-01T00:41:43.514Z] [SUCCESS] Stream extracted: Emergency Landings #64 How survivable are they? Be...
+[2026-05-01T00:41:43.513Z] [INFO] ANDROID_VR succeeded for 6WkBW7h7Ek4
+[2026-05-01T00:41:43.643Z] [PROXY] [aidenc] https://rr4---sn-5ualdns7.googlevideo.com/videoplayback?expire=1777617703&ei=x_b...
+[2026-05-01T00:41:43.717Z] [DNS] Resolved rr4---sn-5ualdns7.googlevideo.com -> 74.125.7.41 via 8.8.8.8
+[2026-05-01T00:41:44.006Z] [PROXY] [aidenc] https://rr4---sn-5ualdns7.googlevideo.com/videoplayback?expire=1777617703&ei=x_b...
+[2026-05-01T00:47:32.135Z] [WARN] Extensions directory not found: ./extensions
+[2026-05-01T00:47:32.143Z] [INFO] ========================================
+[2026-05-01T00:47:32.143Z] [INFO]   TITANIUM PROXY SERVER v2.0
+[2026-05-01T00:47:32.143Z] [INFO] ========================================
+[2026-05-01T00:47:32.143Z] [INFO] ========================================
+
+[2026-05-01T00:47:32.143Z] [INFO]   Extensions: 0 loaded
+[2026-05-01T00:47:32.143Z] [INFO]   URL: http://localhost:3000
+[2026-05-01T00:47:37.689Z] [AUTH] User logged in: aidenc
+[2026-05-01T00:47:38.527Z] [INFO] [aidenc] Accessed YouTube interface
+[2026-05-01T00:47:44.452Z] [INFO] [aidenc] Searching YouTube: big mathis
+[2026-05-01T00:47:46.511Z] [INFO] [aidenc] Extracting stream: iePXlFFz7ew
+[2026-05-01T00:47:46.511Z] [INFO] Fetching YouTube visitor_data...
+[2026-05-01T00:47:46.755Z] [INFO] Got visitor_data: CgtMcl9QeWRGVnFONCiz...
+[2026-05-01T00:47:46.755Z] [INFO] Trying ANDROID for iePXlFFz7ew
+[2026-05-01T00:47:46.801Z] [ERROR] [ANDROID] response keys: error
+[2026-05-01T00:47:46.801Z] [ERROR] [ANDROID] playability: UNKNOWN - Video unavailable
+[2026-05-01T00:47:46.801Z] [WARN] ANDROID failed: UNKNOWN: Video unavailable
+[2026-05-01T00:47:46.801Z] [INFO] Trying ANDROID_VR for iePXlFFz7ew
+[2026-05-01T00:47:46.885Z] [INFO] [ANDROID_VR] 25 formats (1 combined)
+[2026-05-01T00:47:46.885Z] [INFO] Adaptive: video=1080p60 (avc1.64002a) audio=AUDIO_QUALITY_MEDIUM
+[2026-05-01T00:47:46.885Z] [INFO] InnerTube extracted iePXlFFz7ew in 374ms
+[2026-05-01T00:47:46.885Z] [SUCCESS] Stream extracted: Airplane Crashes, Midair Collisions & Dogfights #6...
+[2026-05-01T00:47:46.885Z] [INFO] ANDROID_VR succeeded for iePXlFFz7ew
+[2026-05-01T00:47:46.891Z] [PROXY] [aidenc] https://rr5---sn-5ualdnzl.googlevideo.com/videoplayback?expire=1777618067&ei=M_j...
+[2026-05-01T00:47:46.894Z] [PROXY] [aidenc] https://rr5---sn-5ualdnzl.googlevideo.com/videoplayback?expire=1777618067&ei=M_j...
+[2026-05-01T00:47:46.949Z] [DNS] Resolved rr5---sn-5ualdnzl.googlevideo.com -> 173.194.142.138 via 8.8.8.8
+[2026-05-01T00:47:46.950Z] [DNS] Resolved rr5---sn-5ualdnzl.googlevideo.com -> 173.194.142.138 via 8.8.8.8
+[2026-05-01T00:47:47.016Z] [PROXY] [aidenc] https://rr2---sn-2o5ua5-53.googlevideo.com/videoplayback?expire=1777618067&ei=M_...
+[2026-05-01T00:47:47.018Z] [PROXY] [aidenc] https://rr2---sn-2o5ua5-53.googlevideo.com/videoplayback?expire=1777618067&ei=M_...
+[2026-05-01T00:47:47.020Z] [DNS] Resolved rr2---sn-2o5ua5-53.googlevideo.com -> 173.194.29.130 via 8.8.8.8
+[2026-05-01T00:47:47.021Z] [DNS] Resolved rr2---sn-2o5ua5-53.googlevideo.com -> 173.194.29.130 via 8.8.8.8
+[2026-05-01T00:47:47.083Z] [PROXY] [aidenc] https://rr1---sn-q4fl6nz6.googlevideo.com/videoplayback?expire=1777618067&ei=M_j...
+[2026-05-01T00:47:47.122Z] [DNS] Resolved rr1---sn-q4fl6nz6.googlevideo.com -> 173.194.57.38 via 8.8.8.8
+[2026-05-01T00:48:10.071Z] [INFO] [aidenc] Searching YouTube: plainrock124
+[2026-05-01T00:48:10.796Z] [PROXY] [aidenc] https://i.ytimg.com/vi/F0O5rXaABNo/hq720_custom_1.jpg?sqp=CIzvz88G-oaymwEcCOgCEM...
+[2026-05-01T00:48:10.798Z] [PROXY] [aidenc] https://i.ytimg.com/vi/gcFEopRQiys/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARU...
+[2026-05-01T00:48:10.800Z] [PROXY] [aidenc] https://i.ytimg.com/vi/qkR2Xp27K8M/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARU...
+[2026-05-01T00:48:10.802Z] [PROXY] [aidenc] https://i.ytimg.com/vi/gok8tLU7eZo/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARU...
+[2026-05-01T00:48:10.809Z] [DNS] Resolved i.ytimg.com -> 74.125.21.119 via 8.8.8.8
+[2026-05-01T00:48:10.809Z] [DNS] Resolved i.ytimg.com -> 172.253.124.119 via 8.8.8.8
+[2026-05-01T00:48:10.809Z] [DNS] Resolved i.ytimg.com -> 74.125.21.119 via 8.8.8.8
+[2026-05-01T00:48:10.809Z] [DNS] Resolved i.ytimg.com -> 172.217.215.119 via 8.8.8.8
+[2026-05-01T00:48:10.890Z] [PROXY] [aidenc] https://i.ytimg.com/vi/uOwjWTI_flY/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARU...
+[2026-05-01T00:48:10.924Z] [PROXY] [aidenc] https://i.ytimg.com/vi/a5wpbYzhqF0/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARU...
+[2026-05-01T00:48:10.932Z] [PROXY] [aidenc] https://i.ytimg.com/vi/VbDfnDxifp4/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARU...
+[2026-05-01T00:48:10.962Z] [PROXY] [aidenc] https://i.ytimg.com/vi/IGp2cF4AU34/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARU...
+[2026-05-01T00:48:10.972Z] [PROXY] [aidenc] https://i.ytimg.com/vi/-85kXQfmqyg/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARU...
+[2026-05-01T00:48:11.025Z] [PROXY] [aidenc] https://i.ytimg.com/vi/Ps76kdH5aBg/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARU...
+[2026-05-01T00:48:11.026Z] [PROXY] [aidenc] https://i.ytimg.com/vi/7UZEoqp_Wl4/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARU...
+[2026-05-01T00:48:11.033Z] [PROXY] [aidenc] https://i.ytimg.com/vi/Gv52gzXOLGc/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARU...
+[2026-05-01T00:48:11.061Z] [PROXY] [aidenc] https://i.ytimg.com/vi/Sv9uLJuZFRo/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARU...
+[2026-05-01T00:48:11.075Z] [PROXY] [aidenc] https://i.ytimg.com/vi/sZJDihyr0g0/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARU...
+[2026-05-01T00:48:11.116Z] [PROXY] [aidenc] https://i.ytimg.com/vi/67xSvNApA7I/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARU...
+[2026-05-01T00:48:11.125Z] [PROXY] [aidenc] https://i.ytimg.com/vi/kgXh_A4O0EU/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARU...
+[2026-05-01T00:48:11.143Z] [PROXY] [aidenc] https://i.ytimg.com/vi/YRvbpYYJIDE/hqdefault.jpg?sqp=-oaymwEcCOADEI4CSFXyq4qpAw4...
+[2026-05-01T00:48:11.146Z] [PROXY] [aidenc] https://i.ytimg.com/vi/1ExYK0uJNyc/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARU...
+[2026-05-01T00:48:15.189Z] [INFO] [aidenc] Extracting stream: -85kXQfmqyg
+[2026-05-01T00:48:15.189Z] [INFO] Trying ANDROID for -85kXQfmqyg
+[2026-05-01T00:48:15.247Z] [ERROR] [ANDROID] playability: UNKNOWN - Video unavailable
+[2026-05-01T00:48:15.247Z] [ERROR] [ANDROID] response keys: error
+[2026-05-01T00:48:15.247Z] [WARN] ANDROID failed: UNKNOWN: Video unavailable
+[2026-05-01T00:48:15.248Z] [INFO] Trying ANDROID_VR for -85kXQfmqyg
+[2026-05-01T00:48:15.347Z] [INFO] [ANDROID_VR] 23 formats (1 combined)
+[2026-05-01T00:48:15.347Z] [INFO] Adaptive: video=1080p (avc1.640028) audio=AUDIO_QUALITY_MEDIUM
+[2026-05-01T00:48:15.347Z] [INFO] InnerTube extracted -85kXQfmqyg in 158ms
+[2026-05-01T00:48:15.347Z] [SUCCESS] Stream extracted: Bored Smashing - MARIO KART LIVE...
+[2026-05-01T00:48:15.347Z] [INFO] ANDROID_VR succeeded for -85kXQfmqyg
+[2026-05-01T00:48:15.352Z] [PROXY] [aidenc] https://rr1---sn-5ualdnlr.googlevideo.com/videoplayback?expire=1777618095&ei=T_j...
+[2026-05-01T00:48:15.354Z] [PROXY] [aidenc] https://rr1---sn-5ualdnlr.googlevideo.com/videoplayback?expire=1777618095&ei=T_j...
+[2026-05-01T00:48:15.390Z] [DNS] Resolved rr1---sn-5ualdnlr.googlevideo.com -> 74.125.7.230 via 8.8.8.8
+[2026-05-01T00:48:15.390Z] [DNS] Resolved rr1---sn-5ualdnlr.googlevideo.com -> 74.125.7.230 via 8.8.8.8
+[2026-05-01T00:48:15.453Z] [PROXY] [aidenc] https://rr5---sn-5uaezny6.googlevideo.com/videoplayback?expire=1777618095&ei=T_j...
+[2026-05-01T00:48:15.455Z] [PROXY] [aidenc] https://rr5---sn-5uaezny6.googlevideo.com/videoplayback?expire=1777618095&ei=T_j...
+[2026-05-01T00:48:15.466Z] [DNS] Resolved rr5---sn-5uaezny6.googlevideo.com -> 173.194.144.106 via 8.8.8.8
+[2026-05-01T00:48:15.466Z] [DNS] Resolved rr5---sn-5uaezny6.googlevideo.com -> 173.194.144.106 via 8.8.8.8
